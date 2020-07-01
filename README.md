@@ -1,5 +1,5 @@
 # CSS-Library-for-making-shapes
-built with love by &copy; nisapinklava
+built with &hearts; by &copy;nisapinklava
 
 ## add link
 <link href="https://res.cloudinary.com/codelifings/raw/upload/v1584852632/css-sparklers_e6ertq_jt3kk8.css" rel="stylesheet>
