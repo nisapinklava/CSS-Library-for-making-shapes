@@ -4,7 +4,9 @@ i found this idea bcz i read an article from CSS Tricks chris coyier
 and then i compile my idea into this (i know this isn't great)
 
 ## add link
+```html
 <link href="https://res.cloudinary.com/codelifings/raw/upload/v1584852632/css-sparklers_e6ertq_jt3kk8.css" rel="stylesheet>
+```
 
 ## add class
 How to make a SQUARE Form? its just simple, right? width and Height are have to same size.
