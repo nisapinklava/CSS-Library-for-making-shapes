@@ -13,7 +13,6 @@ How to make a SQUARE Form? its just simple, right? width and Height are have to 
 ![](https://res.cloudinary.com/codelifings/image/upload/v1584853600/14_rtfx3o.png)
 
 ![](https://res.cloudinary.com/codelifings/image/upload/v1584853600/11_anyaqu.png)
-
 ![](https://res.cloudinary.com/codelifings/image/upload/v1584853600/12_n5vldt.png)
 
 ![](https://res.cloudinary.com/codelifings/image/upload/v1584853600/13_l2kacm.png)
