@@ -10,7 +10,7 @@ and then i compile my idea into this (i know this isn't great)
 ```
 
 ## add class
-See the source file for docs!!
+See the source code file for docs here https://github.com/nisapinklava/CSS-Library-for-making-shapes/blob/master/css-sparklers_e6ertq_jt3kk8.css
 
 ![](https://res.cloudinary.com/codelifings/image/upload/v1584853602/7_nv9sum.png)
 
