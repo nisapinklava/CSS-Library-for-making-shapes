@@ -1,6 +1,7 @@
 # CSS-Library-for-making-shapes
 built with &hearts; by &copy;nisapinklava 
 i found this idea bcz i read an article from CSS Tricks chris coyier
+the original source from https://css-tricks.com/the-shapes-of-css/
 and then i compile my idea into this (i know this isn't great)
 
 ## add link
