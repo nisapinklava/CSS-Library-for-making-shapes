@@ -6,7 +6,7 @@ and then i compile my idea into this (i know this isn't great)
 
 ## add link
 ```html
-<link href="https://res.cloudinary.com/codelifings/raw/upload/v1584852632/css-sparklers_e6ertq_jt3kk8.css" rel="stylesheet>
+<link href="https://res.cloudinary.com/codelifings/raw/upload/v1584852632/css-sparklers_e6ertq_jt3kk8.css" rel="stylesheet">
 ```
 
 ## add class
