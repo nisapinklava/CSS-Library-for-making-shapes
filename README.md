@@ -10,6 +10,7 @@ and then i compile my idea into this (i know this isn't great)
 
 ## add class
 How to make a SQUARE Form? its just simple, right? width and Height are have to same size.
+
 ![](https://res.cloudinary.com/codelifings/image/upload/v1584853602/7_nv9sum.png)
 
 ![](https://res.cloudinary.com/codelifings/image/upload/v1584853600/10_uefo0z.png)
